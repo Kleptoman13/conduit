@@ -1,6 +1,5 @@
 import React, { FC } from 'react';
-import Article from '../../../modules/feed/components/article/article.component';
-import Container from '../container/container.component';
+import Article from '../article/article.component';
 
 export interface ArticleListProps {}
 
